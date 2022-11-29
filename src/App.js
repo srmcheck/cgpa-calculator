@@ -55,7 +55,7 @@ export default function App() {
       <Header />
       <div className="p-2 max-w-2xl m-auto">
         <div className="flex justify-between">
-          <h2 className="font-meri text-base font-semibold">Sujects</h2>
+          <h2 className="font-meri text-base font-semibold">Subjects</h2>
           {cgpa > 0 && (
             <span className="font-bold text-2xl text-blue-700">
               CGPA : {cgpa.toFixed(2)}
