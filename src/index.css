@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+.font-meri {
+  font-family: "Merriweather", serif;
+}
+.bg-red-50-cus {
+  background-color: rgb(255 241 242);
+}
