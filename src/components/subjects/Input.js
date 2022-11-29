@@ -55,7 +55,7 @@ export const Input = ({ setCount, count, val, setData, data }) => {
             type="range"
             value={range}
             onChange={handleOnChangeRange}
-            min={1}
+            min={0}
             max={5}
             step={1}
             className="w-8/12 h-2 m-auto bg-gray-300 rounded-lg appearance-none cursor-pointer text-black mt-3"
