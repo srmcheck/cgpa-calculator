@@ -3,9 +3,9 @@ A Simple CGPA Calculator.
 <br><br>
 Check out the live site - [**https://srm-cgpa.netlify.app/**](https://srm-cgpa.netlify.app/)
 
-![](https://img.shields.io/github/forks/sahiljena/cgpa-calculator?color=green&style=for-the-badge)
-![](https://img.shields.io/github/stars/sahiljena/cgpa-calculator?color=silver&style=for-the-badge)
-![](https://img.shields.io/github/license/sahiljena/cgpa-calculator?color=yellow&style=for-the-badge)
+![](https://img.shields.io/github/forks/srmcheck/cgpa-calculator?color=green&style=for-the-badge)
+![](https://img.shields.io/github/stars/srmcheck/cgpa-calculator?color=silver&style=for-the-badge)
+![](https://img.shields.io/github/license/srmcheck/cgpa-calculator?color=yellow&style=for-the-badge)
 
 
 ## 💻 Installing and Running
