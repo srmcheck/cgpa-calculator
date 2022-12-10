@@ -12,7 +12,7 @@ Check out the live site - [**https://srm-cgpa.netlify.app/**](https://srm-cgpa.n
 From the project folder, run these commands in console (terminal) to install dependencies and run the app:
 ### Clone repository
 ``` 
-git clone https://github.com/sahiljena/cgpa-calculator
+git clone https://github.com/srmcheck/cgpa-calculator
 ```
 
 
